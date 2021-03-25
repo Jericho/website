@@ -2,11 +2,11 @@ Type: Module
 Name: Cake.Chocolatey.Module
 NuGet: Cake.Chocolatey.Module
 Assemblies:
-- "/**/*.dll"
+- /**/*.dll
 Repository: https://github.com/cake-contrib/Cake.Chocolatey.Module.git
 ProjectUrl: https://github.com/cake-contrib/Cake.Chocolatey.Module/
 Author: gep13
-Description: Cake Chocolatey Module.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - tool-provider
 - chocolatey

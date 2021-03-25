@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.CodeGen.OpenAPI
 NuGet: Cake.CodeGen.OpenAPI
 Assemblies:
-- "/**/Cake.CodeGen.OpenAPI.dll"
+- /**/Cake.CodeGen.OpenAPI.dll
 Repository: https://github.com/lukoerfer/cake-openapi-generator.git
 ProjectUrl: https://github.com/lukoerfer/cake-openapi-generator/
 Author: lukoerfer
-Description: Cake Addin for code generation via the OpenAPI Generator (f.k.a. Swagger Codegen)
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - code generation
 - openapi

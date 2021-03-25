@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.AWS.ElasticLoadBalancing
 NuGet: Cake.AWS.ElasticLoadBalancing
 Assemblies:
-- "/**/Cake.AWS.ElasticLoadBalancing.dll"
+- /**/Cake.AWS.ElasticLoadBalancing.dll
 Repository: https://github.com/SharpeRAD/Cake.AWS.ElasticLoadBalancing.git
 ProjectUrl: https://github.com/SharpeRAD/Cake.AWS.ElasticLoadBalancing/
 Author: SharpeRAD
-Description: AWS ElasticLoadBalancing addin for Cake.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - amazon
 - aws

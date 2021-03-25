@@ -2,11 +2,11 @@ Type: Module
 Name: Cake.DNF.Module
 NuGet: Cake.DNF.Module
 Assemblies:
-- "/**/*.dll"
+- /**/*.dll
 Repository: https://github.com/cake-contrib/Cake.DNF.Module.git
 ProjectUrl: https://github.com/cake-contrib/Cake.DNF.Module/
 Author: Alistair Chapman
-Description: This Cake module adds support for the DNF package manager when installing tools in your Cake build scripts.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - tool-provider
 - ci

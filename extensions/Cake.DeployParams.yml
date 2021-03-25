@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.DeployParams
 NuGet: Cake.DeployParams
 Assemblies:
-- "/**/Cake.DeployParams.dll"
+- /**/Cake.DeployParams.dll
 Repository: https://github.com/wooboo/Cake.DeployParams.git
 ProjectUrl: https://github.com/wooboo/Cake.DeployParams/
 Author: wooboo
-Description: Cake addin for generating WebDeploy parameters.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - deployment
 - iis

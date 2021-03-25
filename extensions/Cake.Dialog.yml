@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Dialog
 NuGet: Cake.Dialog
 Assemblies:
-- "/**/CakeDialog.dll"
+- /**/CakeDialog.dll
 Repository: https://github.com/wk-j/cake-dialog.git
 ProjectUrl: https://github.com/wk-j/cake-dialog/
 Author: wk-j
-Description: Cake AddIn that provides ability to collect user input during build.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - dialog
 TargetCakeVersion: 0.17.0

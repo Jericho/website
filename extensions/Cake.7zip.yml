@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.7zip
 NuGet: Cake.7zip
 Assemblies:
-- "/**/Cake.7zip.dll"
+- /**/Cake.7zip.dll
 Repository: https://github.com/cake-contrib/Cake.7zip.git
 ProjectUrl: https://cake-contrib.github.io/Cake.7zip/
 Author: nils-a
-Description: Makes 7zip available as a tool in Cake
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - sevenzip
 TargetCakeVersion: 1.0.0

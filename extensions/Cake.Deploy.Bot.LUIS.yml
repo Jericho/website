@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Deploy.Bot.LUIS
 NuGet: Cake.Deploy.Bot.LUIS
 Assemblies:
-- "/**/Cake.Deploy.Bot.LUIS.dll"
+- /**/Cake.Deploy.Bot.LUIS.dll
 Repository: https://github.com/ObjectivityLtd/Cake.Deploy.Bot.LUIS.git
 ProjectUrl: https://github.com/ObjectivityLtd/Cake.Deploy.Bot.LUIS/
 Author: ObjectivityLtd
-Description: Cake addin for deploying LUIS app
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - luis
 TargetCakeVersion: 0.23.0

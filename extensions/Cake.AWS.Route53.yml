@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.AWS.Route53
 NuGet: Cake.AWS.Route53
 Assemblies:
-- "/**/Cake.AWS.Route53.dll"
+- /**/Cake.AWS.Route53.dll
 Repository: https://github.com/SharpeRAD/Cake.AWS.Route53.git
 ProjectUrl: https://github.com/SharpeRAD/Cake.AWS.Route53/
 Author: SharpeRAD
-Description: AWS Route53 addin for Cake.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - amazon
 - aws

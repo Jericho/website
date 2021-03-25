@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Buns.ReportPortal
 NuGet: Cake.Buns.ReportPortal
 Assemblies:
-- "/**/Cake.Buns.ReportPortal.dll"
+- /**/Cake.Buns.ReportPortal.dll
 Repository: https://github.com/OlegYanushkevich/Cake.Buns.ReportPortal.git
 ProjectUrl: https://github.com/OlegYanushkevich/Cake.Buns.ReportPortal/
 Author: OlegYanushkevich
-Description: Cake extension for cleaning and merging ReportPortal launches.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - reportportal
 - merging

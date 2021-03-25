@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.AWS.Lambda
 NuGet: Cake.AWS.Lambda
 Assemblies:
-- "/**/Cake.AWS.Lambda.dll"
+- /**/Cake.AWS.Lambda.dll
 Repository: https://github.com/SharpeRAD/Cake.AWS.Lambda.git
 ProjectUrl: https://github.com/SharpeRAD/Cake.AWS.Lambda/
 Author: SharpeRAD
-Description: Cake Build addon for Amazon Lambda.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - amazon
 - aws

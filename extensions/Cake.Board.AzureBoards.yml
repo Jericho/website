@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Board.AzureBoards
 NuGet: Cake.Board.AzureBoards
 Assemblies:
-- "/**/Cake.Board.AzureBoards.dll"
+- /**/Cake.Board.AzureBoards.dll
 Repository: https://github.com/binick/Cake.Board.git
 ProjectUrl: https://github.com/binick/Cake.Board/
 Author: Nicola Biancolini
-Description: This add-in allows you to interact directly with the work items of Azure Boards.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - azure
 - azure boards

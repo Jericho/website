@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Board.Asana
 NuGet: Cake.Board.Asana
 Assemblies:
-- "/**/Cake.Board.Asana.dll"
+- /**/Cake.Board.Asana.dll
 Repository: https://github.com/cake-contrib/Cake.Board.git
 ProjectUrl: https://github.com/cake-contrib/Cake.Board/
 Author: Nicola Biancolini
-Description: This add-in allows you to interact directly with the tasks of Asana.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - asana
 - task

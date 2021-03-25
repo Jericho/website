@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.CodeGen.NSwag
 NuGet: Cake.CodeGen.NSwag
 Assemblies:
-- "/**/Cake.CodeGen.NSwag.dll"
+- /**/Cake.CodeGen.NSwag.dll
 Repository: https://github.com/lukoerfer/cake-codegen-nswag.git
 ProjectUrl: https://github.com/lukoerfer/cake-codegen-nswag/
 Author: lukoerfer
-Description: Cake Addin for code generation from OpenAPI specifications via NSwag
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - code generation
 - openapi

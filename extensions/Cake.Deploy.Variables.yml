@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Deploy.Variables
 NuGet: Cake.Deploy.Variables
 Assemblies:
-- "/**/Cake.Deploy.Variables.dll"
+- /**/Cake.Deploy.Variables.dll
 Repository: https://github.com/ObjectivityLtd/Cake.Deploy.Variables.git
 ProjectUrl: https://github.com/ObjectivityLtd/Cake.Deploy.Variables/
 Author: ObjectivityLtd
-Description: Cake addin for the deployment variables management.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - variables
 - deploy

@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Codecov
 NuGet: Cake.Codecov
 Assemblies:
-- "/**/Cake.Codecov.dll"
+- /**/Cake.Codecov.dll
 Repository: https://github.com/cake-contrib/Cake.Codecov.git
 ProjectUrl: https://github.com/cake-contrib/Cake.Codecov/
 Author: Larz White
-Description: Cake addin that extends Cake with ability to use Codecov.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - code coverage
 - testing

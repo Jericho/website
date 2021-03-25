@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Compression
 NuGet: Cake.Compression
 Assemblies:
-- "/**/Cake.Compression.dll"
+- /**/Cake.Compression.dll
 Repository: https://github.com/akordowski/Cake.Compression.git
 ProjectUrl: https://github.com/akordowski/Cake.Compression/
 Author: Artur Kordowski
-Description: Cake AddIn which provides compression functionality for BZip2, GZip and Zip.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - compression
 TargetCakeVersion: 1.0.0

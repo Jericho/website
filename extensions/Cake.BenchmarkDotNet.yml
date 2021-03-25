@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.BenchmarkDotNet
 NuGet: Cake.BenchmarkDotNet
 Assemblies:
-- "/**/Cake.BenchmarkDotNet.dll"
+- /**/Cake.BenchmarkDotNet.dll
 Repository: https://github.com/rfleming71/cake-benchmarkdotnet.git
 ProjectUrl: https://github.com/rfleming71/cake-benchmarkdotnet/
 Author: rfleming71
-Description: Cake addin for working with BenchmarkDotNet
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - benchmarkdotnet
 TargetCakeVersion: 0.38.4

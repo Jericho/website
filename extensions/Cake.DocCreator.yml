@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.DocCreator
 NuGet: Cake.DocCreator
 Assemblies:
-- "/**/Cake.DocCreator.dll"
+- /**/Cake.DocCreator.dll
 Repository: 
 ProjectUrl: https://www.nuget.org/packages/Cake.DocCreator/
 Author: agc93
-Description: A Cake addin to generate HTML documentation from Markdown source, using DocCreator
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - documentation
 - markdown

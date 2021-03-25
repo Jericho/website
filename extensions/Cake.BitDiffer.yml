@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.BitDiffer
 NuGet: Cake.BitDiffer
 Assemblies:
-- "/**/Cake.BitDiffer.dll"
+- /**/Cake.BitDiffer.dll
 Repository: https://github.com/cake-contrib/Cake.BitDiffer.git
 ProjectUrl: https://github.com/cake-contrib/Cake.BitDiffer/
 Author: Eugen [WebDucer] Richter
-Description: Cake Addin for BitDiffer command line
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - bitdiffer
 - deployment

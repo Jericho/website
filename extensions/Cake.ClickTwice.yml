@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.ClickTwice
 NuGet: Cake.ClickTwice
 Assemblies:
-- "/**/Cake.ClickTwice.dll"
+- /**/Cake.ClickTwice.dll
 Repository: https://github.com/agc93/ClickTwice.git
 ProjectUrl: https://github.com/agc93/ClickTwice/
 Author: agc93
-Description: Cake host for ClickTwice publishing, including the addin and all required libraries
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - clicktwice
 - publish

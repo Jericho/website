@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.Android.SdkManager
 NuGet: Cake.Android.SdkManager
 Assemblies:
-- "/**/Cake.Android.SdkManager.dll"
+- /**/Cake.Android.SdkManager.dll
 Repository: https://github.com/cake-contrib/Cake.Android.SdkManager.git
 ProjectUrl: https://github.com/cake-contrib/Cake.Android.SdkManager/
 Author: Jonathan Dick
-Description: Cake Aliases for Android's sdkmanager command line tool
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - android
 TargetCakeVersion: 0.33.0

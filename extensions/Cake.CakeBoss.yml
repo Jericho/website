@@ -2,11 +2,11 @@ Type: Addin
 Name: Cake.CakeBoss
 NuGet: Cake.CakeBoss
 Assemblies:
-- "/**/Cake.CakeBoss.dll"
+- /**/Cake.CakeBoss.dll
 Repository: https://github.com/SharpeRAD/CakeBoss.git
 ProjectUrl: https://github.com/SharpeRAD/CakeBoss/
 Author: SharpeRAD
-Description: Cake Build addon for calling CakeBoss agents.
+Description: "Cake module for supporting downloading files from url's in the #load directive."
 Categories:
 - devops
 TargetCakeVersion: 0.6.4
