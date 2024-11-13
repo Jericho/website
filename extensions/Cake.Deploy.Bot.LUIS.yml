@@ -3,8 +3,8 @@ Name: Cake.Deploy.Bot.LUIS
 NuGet: Cake.Deploy.Bot.LUIS
 Assemblies:
 - /**/Cake.Deploy.Bot.LUIS.dll
-Repository: https://github.com/ObjectivityLtd/Cake.Deploy.Bot.LUIS.git
-ProjectUrl: https://github.com/ObjectivityLtd/Cake.Deploy.Bot.LUIS/
+Repository: 
+ProjectUrl: https://www.nuget.org/packages/Cake.Deploy.Bot.LUIS/
 Author: ObjectivityLtd
 Description: Cake addin for deploying LUIS app
 Categories:
