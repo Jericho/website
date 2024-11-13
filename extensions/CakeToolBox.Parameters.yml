@@ -1,0 +1,16 @@
+Type: Addin
+Name: CakeToolBox.Parameters
+NuGet: CakeToolBox.Parameters
+Assemblies:
+- /**/CakeToolBox.Parameters.dll
+Repository: https://github.com/evg4b/CakeToolBox/
+ProjectUrl: https://www.nuget.org/packages/CakeToolBox.Parameters/
+Author: evg4b
+Description: Package Description
+Categories: []
+TargetCakeVersion: 0.37.0
+TargetFrameworks:
+- netstandard2.0
+AnalyzedPackageVersion: 0.0.0-alpha.0.19
+AnalyzedPackageIsPrerelease: true
+AnalyzedPackagePublishDate: 2020-09-30T15:25:21.5430000Z
