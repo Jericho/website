@@ -1,0 +1,16 @@
+Type: Addin
+Name: CakeToolBox.Environment
+NuGet: CakeToolBox.Environment
+Assemblies:
+- /**/CakeToolBox.Environment.dll
+Repository: https://github.com/evg4b/CakeToolBox/
+ProjectUrl: https://www.nuget.org/packages/CakeToolBox.Environment/
+Author: evg4b
+Description: Package Description
+Categories: []
+TargetCakeVersion: 0.37.0
+TargetFrameworks:
+- netstandard2.0
+AnalyzedPackageVersion: 0.0.0.2-alpha2
+AnalyzedPackageIsPrerelease: true
+AnalyzedPackagePublishDate: 2020-09-30T13:06:36.4930000Z
